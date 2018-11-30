@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ShoppingApp</string>
+    <string name="electronics_title">Electronics</string>
+    <string name="furniture_title">Furniture</string>
+    <string name="home_title">Shopping</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="delete">Delete</string>
+    <string name="no_items_in_cart">Cart is empty</string>
 </resources>
